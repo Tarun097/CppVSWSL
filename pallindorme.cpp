@@ -18,7 +18,7 @@ bool isPallindrome(string s, int i, int n){
 
 int main(int argc, char const *argv[])
 {
-    string s = "MADAM";
+    string s = "MADAN";
 
     cout << std::boolalpha <<isPallindrome(s, 0, s.length());
 
